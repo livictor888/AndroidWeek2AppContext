@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppContext</string>
+    <string name="click_me">Click Me</string>
+    <string name="show_text_with_different_colors">Show text with different colors</string>
+    <string-array name="color_options">
+        <item>White</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Purple</item>
+    </string-array>
+</resources>
